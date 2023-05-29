@@ -17,3 +17,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzberkacar&show_icons=true&locale=en&layout=compact" alt="oguzberkacar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzberkacar&show_icons=true&locale=en" alt="oguzberkacar" /></p>
+
+<p>According to the company policy I am currently working under, I am using a different GitHub account. Below are some of the contributions I have made with that account.</p>
+
+<p>&nbsp;<img align="center" src="https://oguzberkacar.xyz/img/wdn.png alt="oguzberkacar" /></p>
+
